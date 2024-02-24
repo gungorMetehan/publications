@@ -5,7 +5,7 @@
 ## 2 - Book Chapters
 
 ## 3 - Articles
-+ [Güngör, M., & Atalay Kabasakal, K. (2020). Investigation of measurement invariance of science motivation and self-efficacy model: PISA 2015 Turkey sample. International Journal of Assessment Tools in Education, _7_(2), 207-222. https://doi.org/10.21449/ijate.730481](https://dergipark.org.tr/en/pub/ijate/issue/53823/730481)
++ [Güngör, M., & Atalay Kabasakal, K. (2020). Investigation of measurement invariance of science motivation and self-efficacy model: PISA 2015 Turkey sample. _International Journal of Assessment Tools in Education_, _7_(2), 207-222. https://doi.org/10.21449/ijate.730481](https://dergipark.org.tr/en/pub/ijate/issue/53823/730481)
 
 ## 4 - Papers
 + [Güngör, M., Bekmezci, S. M., & Doğan, N. (2023). Geniş ölçekli testlerin verilerinde hiyerarşik doğrusal modellemede örneklem ağırlıklandırmaları sonuçları nasıl etkiliyor?. In M. G. Gülcan, B. Aybek, F. Gürcan, G. Arıkan & A. Erözyürek (Eds.), _ESEPCONGRESS23 Tam Metin ve Özet Bildiri Kitabı_ (pp. 713). PEGEM Akademi.](https://www.researchgate.net/publication/377233726_Genis_Olcekli_Testlerin_Verilerinde_Hiyerarsik_Dogrusal_Modellemede_Orneklem_Agirliklandirmalari_Sonuclari_Nasil_Etkiliyor)

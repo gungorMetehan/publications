@@ -6,7 +6,7 @@
 ## 2 - Book Chapters
 
 ## 3 - Articles
-+ [**Güngör, M.**, & Atalay Kabasakal, K. (2020). Investigation of measurement invariance of science motivation and self-efficacy model: PISA 2015 Turkey sample. _International Journal of Assessment Tools in Education_, _7_(2), 207-222. https://doi.org/10.21449/ijate.730481](https://dergipark.org.tr/en/pub/ijate/issue/53823/730481)
++ [**Güngör, M.**, & Atalay Kabasakal, K. (2020). Investigation of measurement invariance of science motivation and self-efficacy model: PISA 2015 Turkey sample. _International Journal of Assessment Tools in Education_, _7_(2), 207-222. https://doi.org/10.21449/ijate.730481](https://dergipark.org.tr/en/pub/ijate/issue/53823/730481) <img src="https://github.com/jackiboy/flagpack/blob/master/flags/4x3/gb.svg" width="16" height="12">
 
 ## 4 - Papers
 + **Güngör, M.**, & Demir, E. (2024). Lisansüstü öğrencilerinin istatistiksel teknik belirleme ve kullanmada karşılaştıkları güçlüklere yönelik görüşleri. _XI. International Eurasian Educational Research Congress (EJER)_ (pp. XX-XX). Kocaeli University, Kocaeli, Turkiye.

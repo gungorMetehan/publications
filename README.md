@@ -1,6 +1,7 @@
 # Publications
 
 ## 1 - Books
++ **Güngör, M.** (2024). _R programlama diline giriş_ [Introduction to R programming language]. EPODDER. (baskıda)
 
 ## 2 - Book Chapters
 
@@ -8,6 +9,7 @@
 + [**Güngör, M.**, & Atalay Kabasakal, K. (2020). Investigation of measurement invariance of science motivation and self-efficacy model: PISA 2015 Turkey sample. _International Journal of Assessment Tools in Education_, _7_(2), 207-222. https://doi.org/10.21449/ijate.730481](https://dergipark.org.tr/en/pub/ijate/issue/53823/730481)
 
 ## 4 - Papers
++ **Güngör, M.**, & Demir, E. (2024). Lisansüstü öğrencilerinin istatistiksel teknik belirleme ve kullanmada karşılaştıkları güçlüklere yönelik görüşleri. _XI. International Eurasian Educational Research Congress (EJER)_ (pp. XX-XX). Kocaeli University, Kocaeli, Turkiye.
 + [**Güngör, M.**, Bekmezci, S. M., & Doğan, N. (2023). Geniş ölçekli testlerin verilerinde hiyerarşik doğrusal modellemede örneklem ağırlıklandırmaları sonuçları nasıl etkiliyor?. In M. G. Gülcan, B. Aybek, F. Gürcan, G. Arıkan & A. Erözyürek (Eds.), _ESEPCONGRESS23 Tam Metin ve Özet Bildiri Kitabı_ (pp. 713). PEGEM Akademi.](https://www.researchgate.net/publication/377233726_Genis_Olcekli_Testlerin_Verilerinde_Hiyerarsik_Dogrusal_Modellemede_Orneklem_Agirliklandirmalari_Sonuclari_Nasil_Etkiliyor)
 + [**Güngör, M.**, & Demir, E. (2023). DMF belirlemede Angoff’un Dönüştürülmüş Madde Güçlükleri yönteminin kullanılması ne kadar mantıklı? [How rational is it to use Angoff’s Transformed Item Difficulties method in DIF detection?]. _International Education Congress 2023 (EduCongress)_ (pp. 216-240). Ankara University, Ankara, Turkiye.](https://www.researchgate.net/publication/374899731_DMF_Belirlemede_Angoff'un_Donusturulmus_Madde_Guclukleri_Yonteminin_Kullanilmasi_Ne_Kadar_Mantikli)
 + [**Güngör, M.**, & Bekmezci, S. M. (2023). Fen başarısı açısından okullar arası farklar: TIMSS 2019. In U. Özkaya (Ed.), _Proceeding Book of 1st International Conference on Frontiers in Academic Research_ (pp. 21-26). ICFAR.](https://www.researchgate.net/publication/368848623_Fen_Basarisi_Acisindan_Okullar_Arasi_Farklar_TIMSS_2019)

@@ -1,10 +1,10 @@
 # Publications
 
 ## 1 - Books
-+ **Güngör, M.** (2024). _R programlama diline giriş_ [Introduction to R programming language]. EPODDER. (baskıda) <img src="https://github.com/jackiboy/flagpack/blob/master/flags/4x3/gb.svg" width="16" height="12">
++ **Güngör, M.** (2024). _R programlama diline giriş_ [Introduction to R programming language]. EPODDER. (baskıda) <img src="https://github.com/jackiboy/flagpack/blob/master/flags/4x3/tr.svg" width="16" height="12">
 
 ## 2 - Book Chapters
-+ **Güngör, M.** (2024). MTK tabanlı olmayan öncü yöntemler. In E. Demir (Ed.), _Değişen madde fonksiyonu: R programlama dili uygulamaları_ (pp. XX-XX). EPODDER. (baskıda) <img src="https://github.com/jackiboy/flagpack/blob/master/flags/4x3/gb.svg" width="16" height="12">
++ **Güngör, M.** (2024). MTK tabanlı olmayan öncü yöntemler. In E. Demir (Ed.), _Değişen madde fonksiyonu: R programlama dili uygulamaları_ (pp. XX-XX). EPODDER. (baskıda) <img src="https://github.com/jackiboy/flagpack/blob/master/flags/4x3/tr.svg" width="16" height="12">
 
 ## 3 - Articles
 + **Güngör, M.**, Bekmezci, S. M., & Doğan, N. (2024). The effect of sample weighting on hierarchical linear modeling in the large-scale assessment data [Geniş ölçekli test verilerinde örneklem ağırlıklandırmalarının hiyerarşik doğrusal modellemeye etkisi]. _Journal Name_, _x_(x), XX-XX. <img src="https://github.com/jackiboy/flagpack/blob/master/flags/4x3/gb.svg" width="16" height="12">

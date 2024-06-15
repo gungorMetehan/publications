@@ -1,7 +1,7 @@
 # My Publications
 
 ## 1 - Books
-+ **Güngör, M.** (2024). _R programlama diline giriş_ [Introduction to R programming language]. EPODDER. (baskıda) <img src="https://github.com/jackiboy/flagpack/blob/master/flags/4x3/tr.svg" width="16" height="12">
++ [**Güngör, M.** (2024). _R programlama diline giriş_ [Introduction to R programming language]. EPODDER. https://kitap.epodder.org/r-programlama-dili/](https://kitap.epodder.org/r-programlama-dili/) <img src="https://github.com/jackiboy/flagpack/blob/master/flags/4x3/tr.svg" width="16" height="12">
 
 ## 2 - Book Chapters
 + **Güngör, M.** (2024). MTK tabanlı olmayan öncü yöntemler [non-IRT-based pioneering methods]. In E. Demir (Ed.), _XXX_ [XXX] (pp. XX-XX). EPODDER. (baskıda) <img src="https://github.com/jackiboy/flagpack/blob/master/flags/4x3/tr.svg" width="16" height="12">

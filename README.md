@@ -7,6 +7,7 @@
 + **Güngör, M.** (2024). DMF belirlemede MTK tabanlı olmayan öncü yöntemler [non-IRT-based pioneering methods in detecting DIF]. In E. Demir (Ed.), _XXX_ [XXX] (pp. XX-XX). XX. (baskıda) <img src="https://github.com/jackiboy/flagpack/blob/master/flags/4x3/tr.svg" width="16" height="12">
 
 ## 3 - Articles
++ **Güngör, M.**, & Aybek, E. C. (2024).
 + **Güngör, M.**, Bekmezci, S. M., & Doğan, N. (2024). The effect of sample weighting on hierarchical linear modeling in the large-scale assessment data [Geniş ölçekli test verilerinde örneklem ağırlıklandırmalarının hiyerarşik doğrusal modellemeye etkisi]. _Erzincan University Journal of Education Faculty_, _x_(x), XX-XX. <img src="https://github.com/jackiboy/flagpack/blob/master/flags/4x3/gb.svg" width="16" height="12">
 + [**Güngör, M.**, & Atalay Kabasakal, K. (2020). Investigation of measurement invariance of science motivation and self-efficacy model: PISA 2015 Turkey sample. _International Journal of Assessment Tools in Education_, _7_(2), 207-222. https://doi.org/10.21449/ijate.730481](https://dergipark.org.tr/en/pub/ijate/issue/53823/730481) <img src="https://github.com/jackiboy/flagpack/blob/master/flags/4x3/gb.svg" width="16" height="12">
 

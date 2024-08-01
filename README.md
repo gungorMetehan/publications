@@ -26,3 +26,39 @@
 
 ## 6 - Reports
 + [Demir, E., **Güngör, M.**, & Şengül, M. (2024). _Panel raporu: Araştırmalarda uygun istatistiksel tekniğin belirlenmesi_ [Panel report: Determining the appropriate statistical technique in research]. Ankara Üniversitesi, Eğitim Bilimleri Fakültesi.](https://www.researchgate.net/publication/381879105_Panel_Raporu_Arastirmalarda_Uygun_Istatistiksel_Teknigin_Belirlenmesi) <img src="https://github.com/jackiboy/flagpack/blob/master/flags/4x3/tr.svg" width="16" height="12">
+
+## 7 - Others
++ [R'da Olası Tüm Yanıt Örüntülerini Oluşturma](https://www.academia.edu/111105022/Rda_Olas%C4%B1_T%C3%BCm_Yan%C4%B1t_%C3%96r%C3%BCnt%C3%BClerini_Olu%C5%9Fturma)
++ [R'da Veri Setlerini Birleştirme (Join Fonksiyonları)](https://www.academia.edu/108863423/Rda_Veri_Setlerini_Birle%C5%9Ftirme_Join_Fonksiyonlar%C4%B1_)
++ [R'da Anket Verisi Düzenleme](https://www.academia.edu/108528986/Rda_Anket_Verisi_D%C3%BCzenleme)
++ [Excel'de Uç Değerlerin (Outliers) Tespiti (3 Farklı Yol)](https://www.academia.edu/100089180/Excelde_U%C3%A7_De%C4%9Ferlerin_Outliers_Tespiti_3_Farkl%C4%B1_Yol_)
++ [Excel'de Pearson Korelasyon Katsayısı Hesaplamak (4 Farklı Yol)](https://www.academia.edu/99951756/Excelde_Pearson_Korelasyon_Katsay%C4%B1s%C4%B1_Hesaplamak_4_Farkl%C4%B1_Yol_)
++ [HLM 6.04 ve HLM 7 Student Version Programlarında Karşılaşabileceğiniz Hata Mesajları ve Çözümleri](https://www.academia.edu/99760494/HLM_6_04_ve_HLM_7_Student_Version_Programlar%C4%B1nda_Kar%C5%9F%C4%B1la%C5%9Fabilece%C4%9Finiz_Hata_Mesajlar%C4%B1_ve_%C3%87%C3%B6z%C3%BCmleri)
++ [R'da 'wordcloud2' Paketi ile Kelime Bulutu Hazırlama ve Dikkat Edilmesi Gerekenler](https://www.academia.edu/99759800/Rda_wordcloud2_Paketi_ile_Kelime_Bulutu_Haz%C4%B1rlama_ve_Dikkat_Edilmesi_Gerekenler)
++ [R'da 'patchwork' Paketi Yardımıyla Grafikleri Tek Sayfada Birleştirmek](https://www.academia.edu/99759695/Rda_patchwork_Paketi_Yard%C4%B1m%C4%B1yla_Grafikleri_Tek_Sayfada_Birle%C5%9Ftirmek)
++ [Computerized Adaptive Testing (CAT) Üzerine Yazılmış Türkçe Kitaplar](https://www.academia.edu/99758794/Computerized_Adaptive_Testing_CAT_%C3%9Czerine_Yaz%C4%B1lm%C4%B1%C5%9F_T%C3%BCrk%C3%A7e_Kitaplar)
++ [R'da Maddeleri Ters Puanlama](https://www.academia.edu/99757040/Rda_Maddeleri_Ters_Puanlama)
++ [Galton ve Bezelyeler - Galton, and the Peas](https://www.academia.edu/99756523/Galton_ve_Bezelyeler_Galton_and_the_Peas_)
++ [Madde Ayırıcılık Gücü İndeksi ve Korelasyon Katsayıları](https://www.academia.edu/99747334/Madde_Ay%C4%B1r%C4%B1c%C4%B1l%C4%B1k_G%C3%BCc%C3%BC_%C4%B0ndeksi_ve_Korelasyon_Katsay%C4%B1lar%C4%B1)
++ [R’da Kendall’s Tau Korelasyon Katsayısı Uygulaması](https://www.academia.edu/44912235/R_da_Kendall_s_Tau_Korelasyon_Katsay%C4%B1s%C4%B1_Uygulamas%C4%B1)
++ [R'da Spearman Sıra Farkları Korelasyon Katsayısı Uygulaması](https://www.academia.edu/44912226/Rda_Spearman_S%C4%B1ra_Farklar%C4%B1_Korelasyon_Katsay%C4%B1s%C4%B1_Uygulamas%C4%B1)
++ [R’da Pearson Momentler Çarpımı Korelasyon Katsayısı Uygulaması](https://www.academia.edu/44912218/R_da_Pearson_Momentler_%C3%87arp%C4%B1m%C4%B1_Korelasyon_Katsay%C4%B1s%C4%B1_Uygulamas%C4%B1)
++ [Madde Tepki Kuramı Çalışmaları için Farklı Modellere Uygun Veri Üretimi](https://www.academia.edu/44912209/Madde_Tepki_Kuram%C4%B1_%C3%87al%C4%B1%C5%9Fmalar%C4%B1_i%C3%A7in_Farkl%C4%B1_Modellere_Uygun_Veri_%C3%9Cretimi)
++ [Çok Boyutlu Ölçeklerde İç Tutarlılığın Kestiriminde Tabakalı (Stratified) Alpha Katsayısının Kullanılması - Bir Excel Uygulaması](https://www.academia.edu/44101935/%C3%87ok_Boyutlu_%C3%96l%C3%A7eklerde_%C4%B0%C3%A7_Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1n_Kestiriminde_Tabakal%C4%B1_Stratified_Alpha_Katsay%C4%B1s%C4%B1n%C4%B1n_Kullan%C4%B1lmas%C4%B1_Bir_Excel_Uygulamas%C4%B1)
++ [Mosier Test Güvenirliğini Hesaplama (İki Yarıya Bölme) - Bir Excel Uygulaması](https://www.academia.edu/44101909/Mosier_Test_G%C3%BCvenirli%C4%9Fini_Hesaplama_%C4%B0ki_Yar%C4%B1ya_B%C3%B6lme_Bir_Excel_Uygulamas%C4%B1)
++ [Testin Güvenirliğini Hesaplamada Tek Uygulamaya Dayalı Bir Yöntem - Rulon (Bir Excel Uygulaması)](https://www.academia.edu/44101896/Testin_G%C3%BCvenirli%C4%9Fini_Hesaplamada_Tek_Uygulamaya_Dayal%C4%B1_Bir_Y%C3%B6ntem_Rulon_Bir_Excel_Uygulamas%C4%B1_)
++ [Testi İki Yarıya Bölerek Güvenirlik Hesaplama - Flanagan (Excel)](https://www.academia.edu/44101866/Testi_%C4%B0ki_Yar%C4%B1ya_B%C3%B6lerek_G%C3%BCvenirlik_Hesaplama_Flanagan_Excel_)
++ [R'da Maddeler Arası Kovaryans Matrisiyle Revelle'in Betası'nı Hesaplamak](https://www.academia.edu/44101849/Rda_Maddeler_Aras%C4%B1_Kovaryans_Matrisiyle_Revellein_Betas%C4%B1n%C4%B1_Hesaplamak)
++ [R'da Hoyt'un Varyans Analizi Üzerine Bir Çalışma](https://www.academia.edu/44101826/Rda_Hoytun_Varyans_Analizi_%C3%9Czerine_Bir_%C3%87al%C4%B1%C5%9Fma)
++ [Bir Testi Maddelerinin Sayısı Farklı Olan İki Parçaya Bölerek Testin Güvenirliğini Hesaplama Horst'un Denklemi - Bir Excel Uygulaması](https://www.academia.edu/44101813/Bir_Testi_Maddelerinin_Say%C4%B1s%C4%B1_Farkl%C4%B1_Olan_%C4%B0ki_Par%C3%A7aya_B%C3%B6lerek_Testin_G%C3%BCvenirli%C4%9Fini_Hesaplama_Horstun_Denklemi_Bir_Excel_Uygulamas%C4%B1)
++ [R'da Gwet'in AC1 ve AC2 Uyum Katsayılarını Elde Etme](https://www.academia.edu/44101771/Rda_Gwetin_AC1_ve_AC2_Uyum_Katsay%C4%B1lar%C4%B1n%C4%B1_Elde_Etme)
++ [R'da Fleiss'ın Kappası'yla Puanlayıcılar Arasındaki Uyumu Hesaplama](https://www.academia.edu/44101282/Rda_Fleiss%C4%B1n_Kappas%C4%B1yla_Puanlay%C4%B1c%C4%B1lar_Aras%C4%B1ndaki_Uyumu_Hesaplama)
++ [R 'gtheory' Paketiyle Tek Yüzeyli Çaprazlanmış Desenlerde G Çalışması Örneği](https://www.academia.edu/44101262/R_gtheory_Paketiyle_Tek_Y%C3%BCzeyli_%C3%87aprazlanm%C4%B1%C5%9F_Desenlerde_G_%C3%87al%C4%B1%C5%9Fmas%C4%B1_%C3%96rne%C4%9Fi)
++ [Genellenebilirlik Kuramı'na Dayalı EduG Uygulamaları](https://www.academia.edu/44101211/Genellenebilirlik_Kuram%C4%B1na_Dayal%C4%B1_EduG_Uygulamalar%C4%B1)
++ [Krippendorff's Alpha Uyum Katsayısı ve Uygulamaları](https://www.academia.edu/44101167/Krippendorffs_Alpha_Uyum_Katsay%C4%B1s%C4%B1_ve_Uygulamalar%C4%B1)
++ [Ölçme Değişmezliği (Measurement Invariance) Nedir?](https://www.academia.edu/44099062/%C3%96l%C3%A7me_De%C4%9Fi%C5%9Fmezli%C4%9Fi_Measurement_Invariance_Nedir)
++ [TAP (Test Analysis Program - Version 4.2.5) Kullanıcı Kılavuzu](https://www.academia.edu/44080369/TAP_Test_Analysis_Program_Version_4_2_5_Kullan%C4%B1c%C4%B1_K%C4%B1lavuzu)
+
+
+
+

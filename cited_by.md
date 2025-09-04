@@ -1,6 +1,7 @@
 # 2025
 
 * Dai, T., Xing, K., Kaplan, A., Cromley, J. G., Mara, K. R., & Perez, T. (2025). Differences in motivation for biology learning: A measurement invariance testing and latent mean comparison approach. Anatomical Sciences Education, 18, 825-837. https://doi.org/10.1002/ase.2544 - [CITED ARTICLE](https://www.researchgate.net/publication/341113884_Investigation_of_Measurement_Invariance_of_Science_Motivation_and_Self-Efficacy_Model_PISA_2015_Turkey_Sample?_sg%5B0%5D=k-mt8hBIcjzr1NZqZEWzHGuajiBfvEjJ7AakHho0uatA5f9dKkUhTgXGAiSDXIgsjdqjoPKXnSPplTnf1zw6rriEEz-XoGjhtnxmJSLZ.BRgp4Cny58eWEsh0P4hcRv4IQHKrxQMCJOwUStUivL_njW4C6_0UX0mscs_GVU40j6yaUD9zvYuuFTuKyVYRoQ&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0)
+* Çelik, İ., & Kaşık, A. (2025). Differential item functioning in PIRLS 2021: An examination of socioeconomic status-based differences in reading comprehension items. Ordu Üniversitesi Sosyal Bilimler Enstitüsü Sosyal Bilimler Araştırmaları Dergisi, 15(ISRIS), 638-672. https://doi.org/10.48146/odusobiad.1731407 - [CITED PAPER](https://www.researchgate.net/publication/387949074_Ikili_Puanlanan_Maddeler_Icin_Degisen_Madde_Fonksiyonu_Belirleme_Tekniklerinin_Siniflandirilmasina_Yonelik_Bir_Calisma_A_Study_on_Classification_of_Differential_Item_Functioning_Detection_Techniques_f)
 
 # 2024
 

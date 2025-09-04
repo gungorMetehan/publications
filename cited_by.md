@@ -1,0 +1,3 @@
+# 2025
+
+* Dai, T., Xing, K., Kaplan, A., Cromley, J. G., Mara, K. R., & Perez, T. (2025). Differences in motivation for biology learning: A measurement invariance testing and latent mean comparison approach. Anatomical Sciences Education, 18, 825-837. https://doi.org/10.1002/ase.2544 - [CITED ARTICLE](https://www.researchgate.net/publication/341113884_Investigation_of_Measurement_Invariance_of_Science_Motivation_and_Self-Efficacy_Model_PISA_2015_Turkey_Sample?_sg%5B0%5D=k-mt8hBIcjzr1NZqZEWzHGuajiBfvEjJ7AakHho0uatA5f9dKkUhTgXGAiSDXIgsjdqjoPKXnSPplTnf1zw6rriEEz-XoGjhtnxmJSLZ.BRgp4Cny58eWEsh0P4hcRv4IQHKrxQMCJOwUStUivL_njW4C6_0UX0mscs_GVU40j6yaUD9zvYuuFTuKyVYRoQ&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0)

@@ -1,7 +1,7 @@
 id,type,year,pub_name_en,pub_name_tr,main_lang,keywords_en,keywords_tr
 1.1.,book,2024,tap (test analysis program) with all aspects: test and item analysis,tüm yönleri ile tap (test analysis program): test ve madde analizi,TR,test analysis & item analysis & options analysis & tap,test analizi & madde analizi & seçenek analizi & tap
 1.2.,book,2024,introduction to r programming language,r programlama diline giris,TR,r & r programming language & software,r & r programlama dili & yazilim
-2.1.,book chapter,2025,non-IRT-based pioneering methods in detecting DIF,DMF belirlemede MTK tabanli olmayan öncü yöntemler,TR,-,-
+2.1.,book chapter,-,non-IRT-based pioneering methods in detecting DIF,DMF belirlemede MTK tabanli olmayan öncü yöntemler,TR,-,-
 3.1.,article,2020,Investigation of measurement invariance of science motivation and self-efficacy model: PISA 2015 Turkey sample,fen motivasyonu ve özyeterligi modeli'nin ölçme degismezliginin incelenmesi: PISA 2015 Türkiye örnegi,EN,structural equation modeling & measurement invariance & instrumental motivation & science self-efficacy,yapisal esitlik modeli & ölçme degismezligi & araçsal güdülenme & fen özyeterligi
 3.2.,article,2024,the effect of sample weighting on hierarchical linear modeling in the large-scale assessment data,genis ölçekli test verilerinde örneklem agirliklandirmalarinin hiyerarsik dogrusal modellemeye etkisi,EN,large-scale assessment & hierarchical linear modeling & weighting & TIMSS 2019,genis ölçekli test & hiyerarsik dogrusal modelleme & agirliklandirma & TIMSS 2019
 3.3.,article,2025,the use of Angoff’s Transformed Item Difficulties Method in detecting differential item functioning,Angoff’un Dönüstürülmüs Madde Güçlükleri Yöntemi’nin degisen madde fonksiyonu belirlemede kullanimi,TR,differential item functioning & transformed item difficulties & difr & delta plot & DIF analysis,degisen madde fonksiyonu & dönüstürülmüs madde güçlükleri & difr & delta yöntemi & DMF analizi
@@ -21,4 +21,5 @@ id,type,year,pub_name_en,pub_name_tr,main_lang,keywords_en,keywords_tr
 6.1.,report,2024,panel report: determining the appropriate statistical technique in research,panel raporu: arastirmalarda uygun istatistiksel teknigin belirlenmesi,TR,-,-
 6.2.,report,2024,-,uzman katilimli çalistay raporu: arastirmalarda uygun istatistiksel teknigin belirlenmesinde web tabanli 'istatistiksel teknik tanimlayicisi - STA' uygulamasinin kullanimi,TR,-,-
 6.3.,report,2025,-,proje kapanis paneli: arastirmalarda uygun istatistiksel teknigin belirlenmesinde web tabanli 'istatistiksel teknik tanimlayicisi' uygulamasinin kullanimi,TR,-,-
+
 

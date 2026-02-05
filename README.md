@@ -5,7 +5,7 @@
 + [**Güngör, M.** (2024). _R programlama diline giriş_ [Introduction to R programming language]. EPODDER. https://kitap.epodder.org/r-programlama-dili/](https://kitap.epodder.org/r-programlama-dili/) <img src="https://github.com/jackiboy/flagpack/blob/master/flags/4x3/tr.svg" width="16" height="12">
 
 ## 2 - Book Chapters
-+ **Güngör, M.** (2026). DMF belirlemede MTK tabanlı olmayan öncü yöntemler [non-IRT-based pioneering methods in detecting DIF]. In E. Demir (Ed.), _XXX_ [XXX] (pp. XX-XX). XX. (baskıda) <img src="https://github.com/jackiboy/flagpack/blob/master/flags/4x3/tr.svg" width="16" height="12">
++ **Güngör, M.** (2026). DMF belirlemede MTK tabanlı olmayan öncü yöntemler [non-IRT-based pioneering methods in detecting DIF]. In E. Demir (Ed.), _R uygulamalarıyla değişen madde fonksiyonu analizleri_ [XXX] (pp. XX-XX). XX. (baskıda) <img src="https://github.com/jackiboy/flagpack/blob/master/flags/4x3/tr.svg" width="16" height="12">
 
 ## 3 - Articles
 + [Demir, E., & **Güngör, M.** (2026). Difficulties and solutions in finding the appropriate statistical technique in research [Araştırmalarda uygun istatistiksel tekniğin belirlenmesinde karşılaşılan güçlükler ve çözüm önerileri]. _Trakya Journal of Education_, _16_(1), 162-194. https://doi.org/10.24315/tred.1575017](https://dergipark.org.tr/tr/pub/tred/article/1575017) <img src="https://github.com/jackiboy/flagpack/blob/master/flags/4x3/gb.svg" width="16" height="12">

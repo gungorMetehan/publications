@@ -1,4 +1,6 @@
 # 2026
+* Yazıkan, T., & Atalay Kabasakal, K. (2026). PISA 2018 okuma becerileri testinin bilişsel ve sosyo-ekonomik gruplar arasında ölçme değişmezliği [Measurement invariance of the PISA 2018 reading literacy test 
+across cognitive and socio-economic groups]. _Western Anatolia Journal of Educational Sciences_, _17_(1), 777-798. https://doi.org/10.51460/baebd.1671573 - [CITED THESIS](https://www.openaccess.hacettepe.edu.tr/xmlui/handle/11655/8058?show=full)
 * Si, Z-Q., Li, C-L., Yin, Z-X., Xiang, L., & Liu, Y. (2026). Suitability assessment for Crassostrea gigas reef restoration in Shandong coastal waters based on remote sensing and GIS. _Acta Hydrobiologica Sinica_, _50_(1), 1-17. https://doi.org/10.3724/1000-3207.2025.2025.0185 - [CITED ARTICLE](https://dergipark.org.tr/en/pub/erziefd/article/1404346)
 
 # 2025
